@@ -1,6 +1,6 @@
 {
   "name": "@bpanel/bpanel-header",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Default header for bpanel",
   "main": "dist/index.js",
   "scripts": {
